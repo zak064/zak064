@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/>
-
 # Hi, I'm Zakariya Fayad 👋
 
 ### Programming Learner | C# & C++ Developer | SQL Server | WinForms | Web Basics
 
 I am a motivated programming learner with a strong interest in software development, desktop applications, databases, and clean project structure.  
 I enjoy building practical projects that help me improve my coding, problem-solving, and software design skills.
+
+I am currently focusing on improving my skills in **C#**, **C++**, **SQL Server**, **WinForms**, **ADO.NET**, **3-Tier Architecture**, and **Web Development Basics**.
 
 <br>
 
@@ -18,6 +18,19 @@ I enjoy building practical projects that help me improve my coding, problem-solv
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakariya.fayad.business@gmail.com)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+- I am learning programming and building real practical projects.
+- I have strong interest in desktop applications and database systems.
+- I like working with C++, C#, SQL Server, WinForms, and clean code structure.
+- I enjoy solving problems and understanding how applications work behind the scenes.
+- I am improving my skills step by step through projects and practice.
+- I am interested in software architecture, especially 3-tier architecture.
+- I also build simple web pages using HTML, CSS, and JavaScript.
+- My goal is to become a better software developer and build useful real-world applications.
 
 ---
 
@@ -60,18 +73,32 @@ class AboutMe
         "HTML",
         "CSS",
         "JavaScript",
-        "Git & GitHub"
+        "Git",
+        "GitHub"
+    };
+
+    string[] ConceptsIKnow =
+    {
+        "Object-Oriented Programming",
+        "Database Design",
+        "CRUD Operations",
+        "3-Tier Architecture",
+        "Problem Solving",
+        "Data Structures",
+        "Algorithms",
+        "Clean Code",
+        "User Interface Basics"
     };
 
     string[] InterestedIn =
     {
         "Desktop Applications",
         "Database Systems",
-        "Clean Code",
-        "Problem Solving",
         "Software Architecture",
-        "Practical Projects"
+        "Practical Projects",
+        "Web Development Basics"
     };
 
     string CurrentFocus = "Improving my programming skills and building real projects";
+    string Goal = "Become a better software developer step by step";
 }
