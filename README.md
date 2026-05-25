@@ -3,8 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zakariya+Fayad;IT+Student+%26+Programming+Learner;Building+Practical+Software+Projects" alt="Typing SVG" />
 
 
-# Hi, I'm Zakariya Fayad 👋
-
 ### Programming Learner | C# & C++ Developer | SQL Server | WinForms | Web Basics
 
 I am a motivated programming learner with a strong interest in software development, desktop applications, databases, and clean project structure.  
