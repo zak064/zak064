@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zakariya+Fayad;IT+Student+%26+Programming+Learner;Building+Practical+Software+Projects" alt="Typing SVG" />
 
-
 ### Programming Learner | C# & C++ Developer | SQL Server | WinForms | Web Basics
 
 I am a motivated programming learner with a strong interest in software development, desktop applications, databases, and clean project structure.  
@@ -17,6 +16,7 @@ I am currently focusing on improving my skills in **C#**, **C++**, **SQL Server*
 [![GitHub](https://img.shields.io/badge/GitHub-zak064-181717?style=flat&logo=github)](https://github.com/zak064)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakariya%20Fayad-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/zak063/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakariya.fayad.business@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=flat&logo=netlify&logoColor=white)](https://zakariyafayadpro.netlify.app/)
 
 </div>
 
@@ -62,6 +62,7 @@ class AboutMe
 {
     string Name = "Zakariya Fayad";
     string Role = "Programming Learner";
+    string Portfolio = "https://zakariyafayadpro.netlify.app/";
 
     string[] MainSkills =
     {
